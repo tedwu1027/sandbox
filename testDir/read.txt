@@ -1,1 +1,2 @@
 read 123
+write 567
